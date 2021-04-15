@@ -1,0 +1,2 @@
+float ERECOGlobal;
+int NClustersGlobal;

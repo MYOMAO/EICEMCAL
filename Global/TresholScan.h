@@ -1,0 +1,1 @@
+float EThres = -.02;
